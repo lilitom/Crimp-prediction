@@ -23,5 +23,5 @@ try xgboost first
 # Submission
 Output the sub files
 
-# link
+# Link
 https://www.kesci.com/
