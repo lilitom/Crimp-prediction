@@ -1,5 +1,5 @@
 import pandas as pd
-
+import numpy as np
 model1=pd.read_csv(r'./model_result/model1_result.csv',sep=',')
 model2=pd.read_csv(r'./model_result/model2_result.csv',sep=',')
 model3=pd.read_csv(r'./model_result/model3_result.csv',sep=',')

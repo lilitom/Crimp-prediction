@@ -21,7 +21,7 @@ All the model using Xgboost lightgbm BaggingRegressor
 
 try xgboost first
 # Submission
-Output the sub files
+Output the subms files
 
 # Link
 https://www.kesci.com/
